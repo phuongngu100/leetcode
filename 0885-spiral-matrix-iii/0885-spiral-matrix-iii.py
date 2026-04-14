@@ -13,12 +13,17 @@ class Solution:
 
         while len(visited) < rows * cols: #total cell, only stop when all is found
             for _ in range(2): #each step size is used twice!! after that increase the step
+                dr, dc = dir[direction]
                 for _ in range(step): #if step =3 step 3 in 2 directions then increase the outer loop until reach 2 said directions
                     if(rStart >= 0 and rStart < rows and cStart >=0 and cStart < cols): #check if current position is inside the grid
                         visited.append([rStart,cStart])
                     # make changes to the current position
-                    rStart += dir[direction][0] #first append the position THEN move
-                    cStart += dir[direction][1]
+                    # rStart += dir[direction][0] #first append the position THEN move
+                    # cStart += dir[direction][1]
+                    rStart = rStart + dr
+                    cStart = cStart + dc
+
+
                 direction = (direction + 1) % 4 # turn 90 degrees
             step +=1
 

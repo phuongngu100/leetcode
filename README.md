@@ -131,10 +131,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,4 +162,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/phuongngu100/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

@@ -115,6 +115,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/phuongngu100/leetcode/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
 ## Matrix
@@ -150,4 +151,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,9 @@ class Solution:
             res.append(row)
         return res
 
+        # time O(numRows^2) outer loop runs numRows times, for each iteration of outer loop, inner loop runs numRows times
+        # spcae O(1)
+
 
 
         

@@ -2,7 +2,8 @@ class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         numHash = Counter(nums)
         
-        for i,c in enumerate(nums):
-            if numHash[c] == 1:
-                return nums[i]
+        for i in numHash:
+            if numHash[i] == 1:
+                return i
+        # time O(n) time since loop through is O(n) and space is also O(n) for the hash table
         

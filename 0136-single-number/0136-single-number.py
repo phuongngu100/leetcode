@@ -1,6 +1,9 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        numHash = Counter(nums)
+        # numHash = Counter(nums)
+        numHash = defaultdict(int)
+        for i in nums:
+            numHash[i] +=1
         
         for i in numHash:
             if numHash[i] == 1:

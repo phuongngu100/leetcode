@@ -117,6 +117,7 @@ npm run lint-test     Test all code is linted properly
 | [0011-container-with-most-water](https://github.com/phuongngu100/leetcode/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
+| [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/phuongngu100/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
@@ -133,6 +134,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -175,4 +177,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

@@ -133,17 +133,20 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +180,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -185,4 +189,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->

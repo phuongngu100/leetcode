@@ -117,6 +117,7 @@ npm run lint-test     Test all code is linted properly
 | [0011-container-with-most-water](https://github.com/phuongngu100/leetcode/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/phuongngu100/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
@@ -151,6 +152,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/phuongngu100/leetcode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -197,4 +199,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

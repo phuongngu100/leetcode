@@ -137,6 +137,7 @@ npm run lint-test     Test all code is linted properly
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
+| [1244-design-a-leaderboard](https://github.com/phuongngu100/leetcode/tree/master/1244-design-a-leaderboard) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
+| [1244-design-a-leaderboard](https://github.com/phuongngu100/leetcode/tree/master/1244-design-a-leaderboard) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,4 +205,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
+## Design
+|  |
+| ------- |
+| [1244-design-a-leaderboard](https://github.com/phuongngu100/leetcode/tree/master/1244-design-a-leaderboard) |
 <!---LeetCode Topics End-->

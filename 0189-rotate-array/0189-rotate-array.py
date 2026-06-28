@@ -15,11 +15,16 @@ class Solution:
             while True:
                 next_idx = (cur + k) % n 
                 nums[next_idx], prev = prev, nums[next_idx] #switch
+                # after this line the array becomes 1,2,3,1,5,6,7
+                # 4 is stored in variable prev
                 cur = next_idx
                 count +=1
                 if start == cur:
                     break
             start +=1
+
+        # O(n) time
+        # O(1) space
             
 
         

@@ -216,11 +216,13 @@ npm run lint-test     Test all code is linted properly
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -230,4 +232,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

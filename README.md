@@ -139,6 +139,7 @@ npm run lint-test     Test all code is linted properly
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
 | [1244-design-a-leaderboard](https://github.com/phuongngu100/leetcode/tree/master/1244-design-a-leaderboard) |
 ## String
 |  |
@@ -146,6 +147,7 @@ npm run lint-test     Test all code is linted properly
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |

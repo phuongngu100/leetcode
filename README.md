@@ -243,6 +243,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
@@ -256,10 +257,16 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 <!---LeetCode Topics End-->

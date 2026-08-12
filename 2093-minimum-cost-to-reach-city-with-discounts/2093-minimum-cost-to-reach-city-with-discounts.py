@@ -25,7 +25,7 @@ class Solution:
                 if used < discounts:
                     new_cost = cost + toll//2
                     new_used = used + 1
-                    if new_cost < dist[nei][new_used]:
+                    if new_cost < dist[nei][new_used]: # we only update if using the discount is cheaper
                         dist[nei][new_used] = new_cost
                         heapq.heappush(heap, (new_cost,nei,new_used))
         return -1

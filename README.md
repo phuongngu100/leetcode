@@ -119,6 +119,7 @@ npm run lint-test     Test all code is linted properly
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/phuongngu100/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
@@ -126,6 +127,7 @@ npm run lint-test     Test all code is linted properly
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 ## Simulation
@@ -172,6 +174,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
+| [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +220,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
+| [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search

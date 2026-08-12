@@ -124,12 +124,14 @@ npm run lint-test     Test all code is linted properly
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@ npm run lint-test     Test all code is linted properly
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +239,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -244,4 +248,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

@@ -177,6 +177,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ npm run lint-test     Test all code is linted properly
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
@@ -231,6 +233,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
 |  |
 | ------- |
@@ -239,6 +242,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
@@ -251,9 +255,11 @@ npm run lint-test     Test all code is linted properly
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

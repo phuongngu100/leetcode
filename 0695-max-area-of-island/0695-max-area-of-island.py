@@ -21,7 +21,6 @@ class Solution:
             for c in range(cols):
                 if grid[r][c] == 1:
                     size = dfs(r,c)
-                    visited.add((r,c))
                     max_count = max(max_count, size)
         
         return max_count

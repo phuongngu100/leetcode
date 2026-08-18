@@ -9,7 +9,7 @@ class Solution:
                 return 0
             visit.add((r,c))
 
-            max_fish = grid[r][c]
+            max_fish = grid[r][c] # count current cell's fish
             max_fish += dfs(r+1,c)
             max_fish += dfs(r-1,c)
             max_fish += dfs(r,c+1)

@@ -129,6 +129,7 @@ npm run lint-test     Test all code is linted properly
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -141,6 +142,7 @@ npm run lint-test     Test all code is linted properly
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
@@ -241,6 +243,7 @@ npm run lint-test     Test all code is linted properly
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
@@ -252,6 +255,7 @@ npm run lint-test     Test all code is linted properly
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -259,6 +263,7 @@ npm run lint-test     Test all code is linted properly
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |

@@ -131,6 +131,7 @@ npm run lint-test     Test all code is linted properly
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/phuongngu100/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +145,7 @@ npm run lint-test     Test all code is linted properly
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/phuongngu100/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@ npm run lint-test     Test all code is linted properly
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/phuongngu100/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +259,7 @@ npm run lint-test     Test all code is linted properly
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/phuongngu100/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -264,6 +268,7 @@ npm run lint-test     Test all code is linted properly
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/phuongngu100/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |

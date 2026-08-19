@@ -195,6 +195,7 @@ npm run lint-test     Test all code is linted properly
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/phuongngu100/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/phuongngu100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
@@ -286,6 +287,7 @@ npm run lint-test     Test all code is linted properly
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/phuongngu100/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/phuongngu100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -305,6 +307,7 @@ npm run lint-test     Test all code is linted properly
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/phuongngu100/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -314,6 +317,7 @@ npm run lint-test     Test all code is linted properly
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/phuongngu100/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/phuongngu100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/phuongngu100/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -323,6 +327,7 @@ npm run lint-test     Test all code is linted properly
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/phuongngu100/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/phuongngu100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/phuongngu100/leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Minimum Spanning Tree
@@ -332,6 +337,7 @@ npm run lint-test     Test all code is linted properly
 ## Topological Sort
 |  |
 | ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/phuongngu100/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/phuongngu100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Heuristic Search
 |  |

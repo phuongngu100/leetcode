@@ -129,6 +129,7 @@ npm run lint-test     Test all code is linted properly
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -144,6 +145,7 @@ npm run lint-test     Test all code is linted properly
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -250,6 +252,7 @@ npm run lint-test     Test all code is linted properly
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -265,6 +268,7 @@ npm run lint-test     Test all code is linted properly
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -275,6 +279,7 @@ npm run lint-test     Test all code is linted properly
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/phuongngu100/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |

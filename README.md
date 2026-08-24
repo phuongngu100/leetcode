@@ -255,6 +255,7 @@ npm run lint-test     Test all code is linted properly
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
@@ -274,6 +275,7 @@ npm run lint-test     Test all code is linted properly
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/phuongngu100/leetcode/tree/master/1992-find-all-groups-of-farmland) |
@@ -286,6 +288,7 @@ npm run lint-test     Test all code is linted properly
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/phuongngu100/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -301,6 +304,7 @@ npm run lint-test     Test all code is linted properly
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/phuongngu100/leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/phuongngu100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |

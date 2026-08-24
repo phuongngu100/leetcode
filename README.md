@@ -124,6 +124,7 @@ npm run lint-test     Test all code is linted properly
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/phuongngu100/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
@@ -162,6 +163,7 @@ npm run lint-test     Test all code is linted properly
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
 | [1244-design-a-leaderboard](https://github.com/phuongngu100/leetcode/tree/master/1244-design-a-leaderboard) |
 ## String
@@ -170,6 +172,7 @@ npm run lint-test     Test all code is linted properly
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
@@ -189,6 +192,7 @@ npm run lint-test     Test all code is linted properly
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
 | [1244-design-a-leaderboard](https://github.com/phuongngu100/leetcode/tree/master/1244-design-a-leaderboard) |
 ## Dynamic Programming
@@ -252,6 +256,7 @@ npm run lint-test     Test all code is linted properly
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
@@ -273,6 +278,7 @@ npm run lint-test     Test all code is linted properly
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -287,6 +293,7 @@ npm run lint-test     Test all code is linted properly
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |

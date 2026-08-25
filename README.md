@@ -130,6 +130,7 @@ npm run lint-test     Test all code is linted properly
 | [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/phuongngu100/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/phuongngu100/leetcode/tree/master/1905-count-sub-islands) |
@@ -196,6 +197,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/phuongngu100/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1244-design-a-leaderboard](https://github.com/phuongngu100/leetcode/tree/master/1244-design-a-leaderboard) |
 ## Dynamic Programming
 |  |
@@ -297,6 +299,7 @@ npm run lint-test     Test all code is linted properly
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/phuongngu100/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |

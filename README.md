@@ -127,6 +127,7 @@ npm run lint-test     Test all code is linted properly
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/phuongngu100/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/phuongngu100/leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/phuongngu100/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -174,6 +175,7 @@ npm run lint-test     Test all code is linted properly
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
+| [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,6 +296,7 @@ npm run lint-test     Test all code is linted properly
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/phuongngu100/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -310,6 +313,7 @@ npm run lint-test     Test all code is linted properly
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/phuongngu100/leetcode/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/phuongngu100/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/phuongngu100/leetcode/tree/master/1514-path-with-maximum-probability) |

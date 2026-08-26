@@ -255,6 +255,7 @@ npm run lint-test     Test all code is linted properly
 | [0207-course-schedule](https://github.com/phuongngu100/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/phuongngu100/leetcode/tree/master/0210-course-schedule-ii) |
 | [0286-walls-and-gates](https://github.com/phuongngu100/leetcode/tree/master/0286-walls-and-gates) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/phuongngu100/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
@@ -277,6 +278,7 @@ npm run lint-test     Test all code is linted properly
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/phuongngu100/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/phuongngu100/leetcode/tree/master/0210-course-schedule-ii) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/phuongngu100/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0419-battleships-in-a-board](https://github.com/phuongngu100/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
@@ -294,6 +296,7 @@ npm run lint-test     Test all code is linted properly
 ## Union-Find
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/phuongngu100/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/phuongngu100/leetcode/tree/master/0695-max-area-of-island) |
@@ -311,6 +314,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0207-course-schedule](https://github.com/phuongngu100/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/phuongngu100/leetcode/tree/master/0210-course-schedule-ii) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/phuongngu100/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/phuongngu100/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/phuongngu100/leetcode/tree/master/0684-redundant-connection) |

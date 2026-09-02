@@ -164,6 +164,7 @@ npm run lint-test     Test all code is linted properly
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/phuongngu100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
@@ -175,6 +176,7 @@ npm run lint-test     Test all code is linted properly
 | [0006-zigzag-conversion](https://github.com/phuongngu100/leetcode/tree/master/0006-zigzag-conversion) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/phuongngu100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
 | [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -183,6 +185,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/phuongngu100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |

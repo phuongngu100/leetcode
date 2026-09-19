@@ -290,6 +290,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/phuongngu100/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/phuongngu100/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/phuongngu100/leetcode/tree/master/0261-graph-valid-tree) |
@@ -355,10 +356,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +434,7 @@ npm run lint-test     Test all code is linted properly
 | [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/phuongngu100/leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/phuongngu100/leetcode/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |

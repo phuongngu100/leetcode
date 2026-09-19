@@ -115,6 +115,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/phuongngu100/leetcode/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/phuongngu100/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
@@ -424,6 +425,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/phuongngu100/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
 ## Bracket Sequences
 |  |

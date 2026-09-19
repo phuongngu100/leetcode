@@ -174,6 +174,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/phuongngu100/leetcode/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/phuongngu100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -206,6 +207,7 @@ npm run lint-test     Test all code is linted properly
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/phuongngu100/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -416,4 +418,12 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/phuongngu100/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/phuongngu100/leetcode/tree/master/0886-possible-bipartition) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

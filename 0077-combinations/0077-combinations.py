@@ -13,4 +13,5 @@ class Solution:
                 perm.pop()
         backtrack([], 1)
         return res
-        
+        # time O(k * C(n,k)); since copy takes k and there are C(n.k) combinations
+        # space: also the same cause C(n,k) combinations of size k

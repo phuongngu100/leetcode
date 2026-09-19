@@ -115,6 +115,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/phuongngu100/leetcode/tree/master/0011-container-with-most-water) |
+| [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
@@ -200,6 +201,7 @@ npm run lint-test     Test all code is linted properly
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/phuongngu100/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
@@ -422,6 +424,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
 ## Bracket Sequences
 |  |
 | ------- |

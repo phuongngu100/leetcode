@@ -121,6 +121,7 @@ npm run lint-test     Test all code is linted properly
 | [0118-pascals-triangle](https://github.com/phuongngu100/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/phuongngu100/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/phuongngu100/leetcode/tree/master/0216-combination-sum-iii) |
 | [0286-walls-and-gates](https://github.com/phuongngu100/leetcode/tree/master/0286-walls-and-gates) |
 | [0419-battleships-in-a-board](https://github.com/phuongngu100/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
@@ -441,6 +442,7 @@ npm run lint-test     Test all code is linted properly
 | [0090-subsets-ii](https://github.com/phuongngu100/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/phuongngu100/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/phuongngu100/leetcode/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |

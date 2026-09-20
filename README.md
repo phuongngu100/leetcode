@@ -123,6 +123,7 @@ npm run lint-test     Test all code is linted properly
 | [0189-rotate-array](https://github.com/phuongngu100/leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/phuongngu100/leetcode/tree/master/0216-combination-sum-iii) |
 | [0286-walls-and-gates](https://github.com/phuongngu100/leetcode/tree/master/0286-walls-and-gates) |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/phuongngu100/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
@@ -167,6 +168,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/phuongngu100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/phuongngu100/leetcode/tree/master/0496-next-greater-element-i) |
@@ -207,6 +209,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [1029-two-city-scheduling](https://github.com/phuongngu100/leetcode/tree/master/1029-two-city-scheduling) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/phuongngu100/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
@@ -232,6 +235,7 @@ npm run lint-test     Test all code is linted properly
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -375,6 +379,7 @@ npm run lint-test     Test all code is linted properly
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/phuongngu100/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/phuongngu100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -452,4 +457,16 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

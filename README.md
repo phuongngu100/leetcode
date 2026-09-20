@@ -181,6 +181,7 @@ npm run lint-test     Test all code is linted properly
 | [0022-generate-parentheses](https://github.com/phuongngu100/leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/phuongngu100/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/phuongngu100/leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/phuongngu100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
@@ -296,6 +297,7 @@ npm run lint-test     Test all code is linted properly
 | [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/phuongngu100/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/phuongngu100/leetcode/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/phuongngu100/leetcode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/phuongngu100/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/phuongngu100/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0419-battleships-in-a-board](https://github.com/phuongngu100/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -361,12 +363,14 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/phuongngu100/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/phuongngu100/leetcode/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/phuongngu100/leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/phuongngu100/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/phuongngu100/leetcode/tree/master/0437-path-sum-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -443,6 +447,7 @@ npm run lint-test     Test all code is linted properly
 | [0113-path-sum-ii](https://github.com/phuongngu100/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/phuongngu100/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/phuongngu100/leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/phuongngu100/leetcode/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |

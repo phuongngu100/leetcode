@@ -3,7 +3,7 @@ class Solution:
         res = []
 
         def backtrack(substring,i):
-            if i >= len(s):
+            if i == len(s):
                 res.append(substring.copy())
                 return
             for j in range(i, len(s)):

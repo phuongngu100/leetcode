@@ -115,6 +115,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/phuongngu100/leetcode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/phuongngu100/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/phuongngu100/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/phuongngu100/leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/phuongngu100/leetcode/tree/master/0090-subsets-ii) |
@@ -147,6 +148,7 @@ npm run lint-test     Test all code is linted properly
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/phuongngu100/leetcode/tree/master/0036-valid-sudoku) |
 | [0286-walls-and-gates](https://github.com/phuongngu100/leetcode/tree/master/0286-walls-and-gates) |
 | [0419-battleships-in-a-board](https://github.com/phuongngu100/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0505-the-maze-ii](https://github.com/phuongngu100/leetcode/tree/master/0505-the-maze-ii) |
@@ -168,6 +170,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/phuongngu100/leetcode/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/phuongngu100/leetcode/tree/master/0387-first-unique-character-in-a-string) |

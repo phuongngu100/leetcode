@@ -191,12 +191,14 @@ npm run lint-test     Test all code is linted properly
 | [0721-accounts-merge](https://github.com/phuongngu100/leetcode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/phuongngu100/leetcode/tree/master/0771-jewels-and-stones) |
 | [0990-satisfiability-of-equality-equations](https://github.com/phuongngu100/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/phuongngu100/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phuongngu100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/phuongngu100/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/phuongngu100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/phuongngu100/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,6 +232,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/phuongngu100/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/phuongngu100/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Queue
 |  |
 | ------- |
@@ -472,4 +475,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/phuongngu100/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/phuongngu100/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
